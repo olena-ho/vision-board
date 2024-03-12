@@ -8,7 +8,7 @@ I want to include here the following:
 
 The skills I **already** have:
 
-![css](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png)
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100" height="100">
 
 here is the list of my goals for the course:
 
